@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Curso MAUI\\ProdutosApi\\ProdutosApi\\wwwroot\\produto01.png",
+      "PackagePath": "staticwebassets\\produto01.png"
+    },
+    {
+      "Id": "C:\\Curso MAUI\\ProdutosApi\\ProdutosApi\\wwwroot\\produto02.png",
+      "PackagePath": "staticwebassets\\produto02.png"
+    },
+    {
+      "Id": "C:\\Curso MAUI\\ProdutosApi\\ProdutosApi\\wwwroot\\produto03.png",
+      "PackagePath": "staticwebassets\\produto03.png"
+    },
+    {
+      "Id": "C:\\Curso MAUI\\ProdutosApi\\ProdutosApi\\wwwroot\\produto04.png",
+      "PackagePath": "staticwebassets\\produto04.png"
+    },
+    {
+      "Id": "C:\\Curso MAUI\\ProdutosApi\\ProdutosApi\\wwwroot\\produto05.png",
+      "PackagePath": "staticwebassets\\produto05.png"
+    },
+    {
+      "Id": "C:\\Curso MAUI\\ProdutosApi\\ProdutosApi\\wwwroot\\produto06.png",
+      "PackagePath": "staticwebassets\\produto06.png"
+    },
+    {
+      "Id": "C:\\Curso MAUI\\ProdutosApi\\ProdutosApi\\wwwroot\\produto07.png",
+      "PackagePath": "staticwebassets\\produto07.png"
+    },
+    {
+      "Id": "C:\\Curso MAUI\\ProdutosApi\\ProdutosApi\\wwwroot\\produto08.png",
+      "PackagePath": "staticwebassets\\produto08.png"
+    },
+    {
+      "Id": "C:\\Curso MAUI\\ProdutosApi\\ProdutosApi\\wwwroot\\produto09.png",
+      "PackagePath": "staticwebassets\\produto09.png"
+    },
+    {
+      "Id": "C:\\Curso MAUI\\ProdutosApi\\ProdutosApi\\wwwroot\\produto10.png",
+      "PackagePath": "staticwebassets\\produto10.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ProdutosApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ProdutosApi.props",
+      "PackagePath": "build\\ProdutosApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ProdutosApi.props",
+      "PackagePath": "buildMultiTargeting\\ProdutosApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ProdutosApi.props",
+      "PackagePath": "buildTransitive\\ProdutosApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
